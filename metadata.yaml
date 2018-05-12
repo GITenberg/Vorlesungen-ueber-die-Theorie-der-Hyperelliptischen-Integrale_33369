@@ -1,0 +1,35 @@
+_repo: Vorlesungen-ueber-die-Theorie-der-Hyperelliptischen-Integrale_33369
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Koenigsberger, Leo
+    aliases:
+    - Königsberger, Leo
+    - Koenigsberger, L. (Leo)
+    - Konigsberger, Leo
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '34304'
+    url: http://www.gutenberg.org/2009/agents/34304
+    wikipedia: http://de.wikipedia.org/wiki/Leo_Koenigsberger
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2010-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33369'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Integrals, Hyperelliptic'
+- !lcsh 'Functions, Abelian'
+title: Vorlesungen ueber die Theorie der Hyperelliptischen Integrale
+url: http://www.gutenberg.org/ebooks/33369
