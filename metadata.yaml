@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34304
     wikipedia: http://de.wikipedia.org/wiki/Leo_Koenigsberger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33369#Vorlesungen-ueber-die-Theorie-der-Hyperelliptischen-Integrale
 gutenberg_bookshelf:
 - Mathematics
 - DE Sachbuch
